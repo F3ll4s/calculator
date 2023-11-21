@@ -55,7 +55,7 @@ body{
 .calc-button-row{
     display: flex;
     justify-content: space-between;
-    margin: 5%0;
+    margin: 5% 0;
 }
 .calc-button{
     backdrop-filter: blur(5.5px);
@@ -82,7 +82,7 @@ body{
     background: red;
 }
 
-.calc-button:last-child:hover{
+.calc-button:last-child:hover{ 
     background-color: inherit;
     color: inherit;
 } 
